@@ -1,0 +1,2 @@
+# vbscript
+programs from class
